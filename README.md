@@ -1,3 +1,6 @@
+# NAME: VARSHINI M
+# REGISTOR NO: 212224060293
+# EXP NO 4 ASK AND FSK
 # ASK
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
